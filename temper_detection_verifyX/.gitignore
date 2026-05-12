@@ -1,0 +1,155 @@
+# ===========================
+# OS generated files
+# ===========================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux
+*~
+
+# ===========================
+# IDEs and editors
+# ===========================
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, Rider)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# ===========================
+# Programming languages
+# ===========================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.mo
+*.pot
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+*.jmx
+target/
+build/
+*.iml
+hs_err_pid*
+*.hprof
+
+# C / C++
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.out
+*.dSYM/
+*.stackdump
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.mdb
+*.opendb
+
+# Go
+bin/
+*.exe
+*.test
+vendor/
+*.out
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/.yardoc
+/_yardoc
+coverage/
+InstalledFiles
+pkg/
+*.orig
+*.log
+tmp/
+
+# PHP
+vendor/
+composer.lock
+*.log
+*.cache
+
+# ===========================
+# Logs and temporary files
+# ===========================
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.backup
+
+# ===========================
+# Version control
+# ===========================
+.svn/
+.hg/
+CVS/
+.git/
