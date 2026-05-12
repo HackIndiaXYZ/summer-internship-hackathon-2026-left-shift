@@ -1,4 +1,10 @@
 <div align="center">
+
+# 🌐 Live link  
+### 🔗 [Visit VerifyX](https://verify-x-web-three.vercel.app/)
+
+<br/>
+
   <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/shield-check.svg" alt="VerifyX Logo" width="120" height="120" />
   
   # VerifyX 🛡️
